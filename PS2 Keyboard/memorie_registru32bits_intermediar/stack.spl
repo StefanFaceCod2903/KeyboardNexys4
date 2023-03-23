@@ -1,0 +1,17 @@
+[Inputs]
+clk
+rst
+=date_in[7:0]=
+=ptr_n[0:2]=
+=stack_op[1:0]=
+[Outputs]
+=date_out0[7:0]=
+=date_out1[7:0]=
+=date_out2[7:0]=
+=date_out3[7:0]=
+=date_out4[7:0]=
+=date_out5[7:0]=
+=date_out6[7:0]=
+=date_out7[7:0]=
+=ptr[0:2]=
+[BiDir]

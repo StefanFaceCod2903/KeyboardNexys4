@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/sim_stack_isim_beh.exe" -prj "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/sim_stack_beh.prj" "work.sim_stack" 

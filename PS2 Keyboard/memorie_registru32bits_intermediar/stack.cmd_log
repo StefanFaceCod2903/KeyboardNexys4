@@ -1,0 +1,3 @@
+vhdtdtfi -lib work ../stack.vhd -prj memorie_registru32bits_intermediar -o stack.spl -module stack -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 stack.spl C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/stack.sym 
+vhdtdtfi -prj memorie_registru32bits_intermediar -o C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/stack.tfi -module stack -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work ../stack.vhd 

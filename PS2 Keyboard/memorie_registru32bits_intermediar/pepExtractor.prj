@@ -1,0 +1,5 @@
+work	"../stack.vhd"
+work	"PS2_Receiver.vhd"
+work	"debouncer_ileana.vhd"
+work	"memorie_registru32bits_intermediar.vhd"
+work	"ssd.vhd"

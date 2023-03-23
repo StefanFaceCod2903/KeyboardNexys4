@@ -1,0 +1,6 @@
+vhdl isim_temp "../registru_4bit.vhd"
+vhdl isim_temp "../../../Downloads/ssd (1).vhd"
+vhdl isim_temp "../registru_32bit.vhd"
+vhdl isim_temp "memorie_rom.vhd"
+vhdl isim_temp "memorie_registru32bits_intermediar.vhd"
+vhdl isim_temp "testbench.vhd"

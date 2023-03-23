@@ -1,0 +1,22 @@
+
+
+
+// Instantiate the module
+stack instance_name (
+    .clk(clk), 
+    .date_in(date_in), 
+    .date_out0(date_out0), 
+    .date_out1(date_out1), 
+    .date_out2(date_out2), 
+    .date_out3(date_out3), 
+    .date_out4(date_out4), 
+    .date_out5(date_out5), 
+    .date_out6(date_out6), 
+    .date_out7(date_out7), 
+    .ptr_n(ptr_n), 
+    .ptr(ptr), 
+    .rst(rst), 
+    .stack_op(stack_op)
+    );
+
+

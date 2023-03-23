@@ -1,0 +1,5 @@
+vhdl work "debouncer_ileana.vhd"
+vhdl work "../stack.vhd"
+vhdl work "ssd.vhd"
+vhdl work "PS2_Receiver.vhd"
+vhdl work "memorie_registru32bits_intermediar.vhd"

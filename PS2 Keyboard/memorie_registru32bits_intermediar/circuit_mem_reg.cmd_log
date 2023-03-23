@@ -1,0 +1,525 @@
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Xilinx Projects/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/Stefan/Desktop/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 
+xst -intstyle ise -ifn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.xst" -ofn "C:/Users/r_bor/Desktop/Proiect/mem+reg/memorie_registru32bits_intermediar/circuit_mem_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf.ucf -p xc7a100t-csg324-3 circuit_mem_reg.ngc circuit_mem_reg.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim circuit_mem_reg.ngc circuit_mem_reg_synthesis.v 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o circuit_mem_reg_map.ncd circuit_mem_reg.ngd circuit_mem_reg.pcf 
+par -w -intstyle ise -ol high -mt off circuit_mem_reg_map.ncd circuit_mem_reg.ncd circuit_mem_reg.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml circuit_mem_reg.twx circuit_mem_reg.ncd -o circuit_mem_reg.twr circuit_mem_reg.pcf -ucf ucf.ucf 
+bitgen -intstyle ise -f circuit_mem_reg.ut circuit_mem_reg.ncd 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\r_bor\Desktop\Proiect\mem+reg\memorie_registru32bits_intermediar\circuit_mem_reg.ncd
+OUTFILE=C:\Users\r_bor\Desktop\Proiect\mem+reg\memorie_registru32bits_intermediar\circuit_mem_reg.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\r_bor\Desktop\Proiect\mem+reg\memorie_registru32bits_intermediar
+LICENSE=WebPack
+USER_INFO=212415379_0_0_334

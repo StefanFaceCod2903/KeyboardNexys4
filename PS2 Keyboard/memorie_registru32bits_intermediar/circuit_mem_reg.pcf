@@ -1,0 +1,39 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu May 12 19:44:13 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "ps2_clk" LOCATE = SITE "F4" LEVEL 1;
+COMP "anod<3>" LOCATE = SITE "P14" LEVEL 1;
+COMP "anod<4>" LOCATE = SITE "J14" LEVEL 1;
+COMP "anod<1>" LOCATE = SITE "K2" LEVEL 1;
+COMP "anod<2>" LOCATE = SITE "T14" LEVEL 1;
+COMP "anod<0>" LOCATE = SITE "U13" LEVEL 1;
+COMP "anod<7>" LOCATE = SITE "J17" LEVEL 1;
+COMP "anod<5>" LOCATE = SITE "T9" LEVEL 1;
+COMP "anod<6>" LOCATE = SITE "J18" LEVEL 1;
+COMP "clk" LOCATE = SITE "E3" LEVEL 1;
+COMP "ps2_data" LOCATE = SITE "B2" LEVEL 1;
+COMP "catod<6>" LOCATE = SITE "T10" LEVEL 1;
+COMP "catod<5>" LOCATE = SITE "R10" LEVEL 1;
+COMP "catod<7>" LOCATE = SITE "H15" LEVEL 1;
+COMP "catod<0>" LOCATE = SITE "L18" LEVEL 1;
+COMP "catod<2>" LOCATE = SITE "P15" LEVEL 1;
+COMP "catod<1>" LOCATE = SITE "T11" LEVEL 1;
+COMP "catod<4>" LOCATE = SITE "K16" LEVEL 1;
+COMP "catod<3>" LOCATE = SITE "K13" LEVEL 1;
+TIMEGRP sys_clk_pin = BEL "luam_codul/DEBOUNCE/Q1" BEL
+        "luam_codul/DEBOUNCE/Q2" BEL "luam_codul/DEBOUNCE/Q3" BEL
+        "luam_codul/DEBOUNCE1/Q1" BEL "luam_codul/DEBOUNCE1/Q2" BEL
+        "luam_codul/DEBOUNCE1/Q3" BEL "afisare_numere/numar_15" BEL
+        "afisare_numere/numar_14" BEL "afisare_numere/numar_13" BEL
+        "afisare_numere/numar_12" BEL "afisare_numere/numar_11" BEL
+        "afisare_numere/numar_10" BEL "afisare_numere/numar_9" BEL
+        "afisare_numere/numar_8" BEL "afisare_numere/numar_7" BEL
+        "afisare_numere/numar_6" BEL "afisare_numere/numar_5" BEL
+        "afisare_numere/numar_4" BEL "afisare_numere/numar_3" BEL
+        "afisare_numere/numar_2" BEL "afisare_numere/numar_1" BEL
+        "afisare_numere/numar_0" BEL "clk_BUFGP/BUFG";
+TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_pin" 100 MHz HIGH 50%;
+SCHEMATIC END;
+
